@@ -1,0 +1,27 @@
+.text-center{
+    text-align: center;
+    font-size: 3rem;
+    color: white;
+   border: 5px solid white;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 50px;
+    background-color: red;
+   
+}
+.bg-red{
+    background: red;
+}
+.mx-auto{
+    margin: auto;
+}
+.flex{
+
+display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
